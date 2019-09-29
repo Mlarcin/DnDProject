@@ -1,0 +1,13 @@
+C:\Users\Mike\source\repos\seniorServer\seniorServer\bin\Debug\seniorServer.exe.config
+C:\Users\Mike\source\repos\seniorServer\seniorServer\bin\Debug\seniorServer.exe
+C:\Users\Mike\source\repos\seniorServer\seniorServer\bin\Debug\seniorServer.pdb
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.Properties.Resources.resources
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.csproj.GenerateResource.cache
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.csproj.CoreCompileInputs.cache
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.exe
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.pdb
+C:\Users\Mike\source\repos\seniorServer\seniorServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mike\source\repos\seniorServer\seniorServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.csproj.CopyComplete
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.csprojAssemblyReference.cache
+C:\Users\Mike\source\repos\seniorServer\seniorServer\obj\Debug\seniorServer.serverForm.resources
